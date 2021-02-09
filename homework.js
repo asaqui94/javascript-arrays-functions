@@ -10,7 +10,7 @@ function findWords(string,alist){
             console.log(not_matched)
         }
     }}
-console.log(findWords(dog_string, dog_names))
+findWords(dog_string, dog_names)
 
 // Question 2
 let arr = ["Max", "Baseball", "Reboot", "Goku", "Trucks", "Rodger"]
